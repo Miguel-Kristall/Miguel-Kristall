@@ -2,90 +2,75 @@
 
 # 👋 Olá, eu sou Miguel Kristall
 
-### 🚀 Estudando desenvolvimento, automação e tecnologia
+### 🚀 Estudando Inteligência Artificial, Automação e Programação
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Aprendendo+Node.js;Estudando+N8N+e+Automação;Conhecimentos+em+PostgreSQL;Explorando+Inteligência+Artificial;Evoluindo+um+projeto+de+cada+vez" />
-
----
-
-### 🌎 Sobre mim
-
-💻 Estudante e entusiasta de tecnologia  
-📚 Aprendendo desenvolvimento backend e automações  
-🤖 Explorando N8N, APIs e Inteligência Artificial  
-🛠️ Criando projetos para ganhar experiência prática  
-🚀 Sempre buscando aprender algo novo
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Estudando+Inteligência+Artificial;Aprendendo+Automação+com+N8N;Explorando+APIs+e+Programação;Criando+projetos+para+evoluir;Sempre+aprendendo+novas+tecnologias" />
 
 ---
 
-# ⚡ Tecnologias que estou aprendendo
+## 🌎 Sobre mim
+
+💻 Estudante de tecnologia e automação  
+🤖 Aprendendo Inteligência Artificial e integrações inteligentes  
+📚 Estudando programação e workflows automatizados  
+🛠️ Desenvolvendo projetos para ganhar experiência prática  
+🚀 Evoluindo diariamente na área de tecnologia  
+
+Atualmente estudando na plataforma **Viver de IA**.
+
+---
+
+# ⚡ Tecnologias em aprendizado
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,js,postgres,docker,github,git,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=nodejs,javascript,postgres,docker,github,git,vscode,linux" />
 
 </div>
 
 ---
 
-# 📊 Estatísticas
+# 📊 Estatísticas GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miguel-Kristall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Kristall&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 🚀 Projetos
+# 🚀 Objetivos
 
-<table>
-<tr>
-<td width="50%">
-
-## 🤖 Automações
-
-Projetos simples utilizando N8N e integrações com APIs.
-
-🔹 Webhooks  
-🔹 Fluxos automatizados  
-🔹 Estudos de integração  
-
-</td>
-
-<td width="50%">
-
-## 🧠 Estudos com IA
-
-Explorando ferramentas de IA e automações inteligentes.
-
-🔹 APIs de IA  
-🔹 Bots e assistentes  
-🔹 Projetos de aprendizado  
-
-</td>
-</tr>
-</table>
+✨ Aprender mais sobre programação  
+✨ Criar automações inteligentes  
+✨ Desenvolver projetos com IA  
+✨ Evoluir como desenvolvedor todos os dias  
 
 ---
 
-# 🌐 Contato
+# 📂 Projetos e Estudos
+
+🧠 Estudos sobre Inteligência Artificial  
+🤖 Workflows automatizados com N8N  
+🔗 Integrações com APIs  
+🗄️ Banco de dados PostgreSQL  
+⚙️ Projetos práticos para aprendizado  
+
+---
+
+# 🌐 Links
 
 <div align="center">
 
-<a href="https://github.com/SEUUSER">
+<a href="https://github.com/Miguel-Kristall">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/SEUUSER">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:seuemail@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/Miguel-Kristall/Miguel-Kristall">
+<img src="https://img.shields.io/badge/Portfólio-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -94,7 +79,7 @@ Explorando ferramentas de IA e automações inteligentes.
 
 <div align="center">
 
-### 📚 Aprendendo e evoluindo todos os dias.
+### 📚 Um passo de cada vez na jornada da tecnologia.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
 
