@@ -1,28 +1,28 @@
-#<div align="center">
+<div align="center">
 
 # 👋 Olá, eu sou Miguel Kristall
 
-### 🚀 Desenvolvedor focado em Automação, IA e Integrações
+### 🚀 Estudando desenvolvimento, automação e tecnologia
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Automação+com+N8N;Integrações+com+APIs;PostgreSQL+%7C+Node.js;Projetos+com+IA;Sempre+aprendendo+novas+tecnologias" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Aprendendo+Node.js;Estudando+N8N+e+Automação;Conhecimentos+em+PostgreSQL;Explorando+Inteligência+Artificial;Evoluindo+um+projeto+de+cada+vez" />
 
 ---
 
 ### 🌎 Sobre mim
 
-💻 Desenvolvedor apaixonado por tecnologia  
-🤖 Criando automações inteligentes com N8N  
-🛠️ Trabalhando com APIs, PostgreSQL e Node.js  
-🚀 Explorando Inteligência Artificial e workflows automatizados  
-📚 Sempre aprendendo e evoluindo
+💻 Estudante e entusiasta de tecnologia  
+📚 Aprendendo desenvolvimento backend e automações  
+🤖 Explorando N8N, APIs e Inteligência Artificial  
+🛠️ Criando projetos para ganhar experiência prática  
+🚀 Sempre buscando aprender algo novo
 
 ---
 
-# ⚡ Tecnologias
+# ⚡ Tecnologias que estou aprendendo
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,js,ts,postgres,docker,n8n,github,git,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=nodejs,js,postgres,docker,github,git,vscode,linux" />
 
 </div>
 
@@ -40,31 +40,31 @@
 
 ---
 
-# 🚀 Projetos em Destaque
+# 🚀 Projetos
 
 <table>
 <tr>
 <td width="50%">
 
-## 🤖 Cervello Automation
+## 🤖 Automações
 
-Sistema de automação integrado ao Cervello utilizando N8N + PostgreSQL.
+Projetos simples utilizando N8N e integrações com APIs.
 
-🔹 Automação de processos  
-🔹 Integrações via API  
-🔹 Workflows inteligentes  
+🔹 Webhooks  
+🔹 Fluxos automatizados  
+🔹 Estudos de integração  
 
 </td>
 
 <td width="50%">
 
-## 🧠 AI Workflows
+## 🧠 Estudos com IA
 
-Projetos utilizando IA para automação e processamento inteligente de dados.
+Explorando ferramentas de IA e automações inteligentes.
 
-🔹 OpenAI API  
-🔹 Agentes inteligentes  
-🔹 Fluxos automatizados  
+🔹 APIs de IA  
+🔹 Bots e assistentes  
+🔹 Projetos de aprendizado  
 
 </td>
 </tr>
@@ -72,7 +72,7 @@ Projetos utilizando IA para automação e processamento inteligente de dados.
 
 ---
 
-# 🌐 Conecte-se comigo
+# 🌐 Contato
 
 <div align="center">
 
@@ -94,7 +94,7 @@ Projetos utilizando IA para automação e processamento inteligente de dados.
 
 <div align="center">
 
-### 💡 "Transformando ideias em automações inteligentes."
+### 📚 Aprendendo e evoluindo todos os dias.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
 
