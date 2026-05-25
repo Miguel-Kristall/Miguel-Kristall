@@ -1,106 +1,101 @@
-# 🚀 Cervello Automation Suite
+#<div align="center">
+
+# 👋 Olá, eu sou Miguel Kristall
+
+### 🚀 Desenvolvedor focado em Automação, IA e Integrações
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Automação+com+N8N;Integrações+com+APIs;PostgreSQL+%7C+Node.js;Projetos+com+IA;Sempre+aprendendo+novas+tecnologias" />
+
+---
+
+### 🌎 Sobre mim
+
+💻 Desenvolvedor apaixonado por tecnologia  
+🤖 Criando automações inteligentes com N8N  
+🛠️ Trabalhando com APIs, PostgreSQL e Node.js  
+🚀 Explorando Inteligência Artificial e workflows automatizados  
+📚 Sempre aprendendo e evoluindo
+
+---
+
+# ⚡ Tecnologias
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SEUUSER/cervello-automation-suite?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/SEUUSER/cervello-automation-suite?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/SEUUSER/cervello-automation-suite?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/SEUUSER/cervello-automation-suite?style=for-the-badge)
-![Node Version](https://img.shields.io/badge/node-20.x-green?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/postgresql-16-blue?style=for-the-badge)
-![N8N](https://img.shields.io/badge/n8n-automation-orange?style=for-the-badge)
-
-### Plataforma de automação inteligente integrada ao Cervello utilizando N8N, PostgreSQL e IA.
-
-[Features](#-features) •
-[Instalação](#-instalação) •
-[Docker](#-docker) •
-[API](#-api-endpoints)
+<img src="https://skillicons.dev/icons?i=nodejs,js,ts,postgres,docker,n8n,github,git,vscode,linux" />
 
 </div>
 
 ---
 
-# 📖 Sobre o Projeto
+# 📊 Estatísticas
 
-O **Cervello Automation Suite** é uma plataforma de automação criada para integrar processos empresariais ao Cervello utilizando workflows inteligentes no N8N.
+<div align="center">
 
-A solução automatiza:
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-- cadastro de filiais inexistentes;
-- sincronização de dados;
-- integrações com APIs;
-- gerenciamento automatizado de chamados;
-- processamento inteligente utilizando IA.
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&langs_count=7&theme=tokyonight"/>
 
-O projeto foi desenvolvido com foco em:
-
-- ⚡ Performance
-- 🔒 Segurança
-- 🤖 Automação inteligente
-- 📈 Escalabilidade
-- 🧩 Arquitetura modular
+</div>
 
 ---
 
-# ✨ Features
+# 🚀 Projetos em Destaque
 
-- ✅ Integração completa com Cervello
-- ✅ Workflows automatizados via N8N
-- ✅ Banco PostgreSQL
-- ✅ Sistema de logs
-- ✅ API REST
-- ✅ Integração com OpenAI
-- ✅ Docker Compose
-- ✅ Monitoramento de processos
-- ✅ Validação automática de dados
-- ✅ Estrutura escalável
+<table>
+<tr>
+<td width="50%">
 
----
+## 🤖 Cervello Automation
 
-# 🛠️ Tecnologias Utilizadas
+Sistema de automação integrado ao Cervello utilizando N8N + PostgreSQL.
 
-## Backend
+🔹 Automação de processos  
+🔹 Integrações via API  
+🔹 Workflows inteligentes  
 
-- Node.js
-- Express.js
-- PostgreSQL
-- Prisma ORM
+</td>
 
-## Automação
+<td width="50%">
 
-- N8N
-- Webhooks
-- Cron Jobs
+## 🧠 AI Workflows
 
-## Inteligência Artificial
+Projetos utilizando IA para automação e processamento inteligente de dados.
 
-- OpenAI API
+🔹 OpenAI API  
+🔹 Agentes inteligentes  
+🔹 Fluxos automatizados  
 
-## DevOps
-
-- Docker
-- Docker Compose
-- GitHub Actions
-- Nginx
+</td>
+</tr>
+</table>
 
 ---
 
-# 📂 Estrutura do Projeto
+# 🌐 Conecte-se comigo
 
-```bash
-📦 cervello-automation-suite
- ┣ 📂 workflows
- ┣ 📂 src
- ┃ ┣ 📂 controllers
- ┃ ┣ 📂 routes
- ┃ ┣ 📂 services
- ┃ ┣ 📂 database
- ┃ ┣ 📂 middlewares
- ┃ ┗ 📜 server.js
- ┣ 📂 postgres
- ┣ 📂 nginx
- ┣ 📜 docker-compose.yml
- ┣ 📜 .env
- ┣ 📜 package.json
- ┗ 📜 README.md
+<div align="center">
+
+<a href="https://github.com/SEUUSER">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/SEUUSER">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Transformando ideias em automações inteligentes."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+
+</div>
